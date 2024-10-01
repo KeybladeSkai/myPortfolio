@@ -40,11 +40,11 @@ const Contact = () => {
   return (
     <div
       style={{ backgroundPosition: "0px 0px", backgroundSize: "6px" }}
-      className=" md:w-[100%] flex flex-col border-[3px] border-black place-items-center bg-grayMatter bg-repeat bg-[url('https://assets.website-files.com/5e87e737ee7085b9ba02c101/5e87e737ee7085fccd02c10d_pattern-grey.svg')] mt-[-98px] pt-40 pb-20 md:px-40 text-[4rem] font-extrabold px-4 "
+      className=" md:w-[100%] flex flex-col border-[1px] border-black place-items-center bg-grayMatter bg-repeat bg-[url('https://assets.website-files.com/5e87e737ee7085b9ba02c101/5e87e737ee7085fccd02c10d_pattern-grey.svg')] mt-[-98px] pt-40 pb-20 md:px-40 text-[4rem] font-extrabold px-4 "
     >
       <div className="border-[3px] border-black  bg-white mt-12 pb-4">
         <h1 className="text-[25px] p-2 border-b-[4px] border-black text-center bg-grayMatter">
-          contact me
+          contact me``
         </h1>
 
         <div className="px-4 pt-6">
