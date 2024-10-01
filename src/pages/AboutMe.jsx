@@ -32,9 +32,6 @@ const AboutMe = () => {
               building both frontend and backend Systems, Large language models,
               and pushing projects as an indie hacker.
             </article>
-            <button className="self-start mt-[20px] md:mt-5 border-[5px] border-black text-xl  bg-grayMatter py-3 font-bold w-[15rem] ">
-              View Page
-            </button>
           </div>
         </div>
       </div>
