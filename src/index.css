@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Baloo Thambi 2", system-ui;
+  line-height: 2.6rem;
+  cursor: -webkit-image-set(
+      url("https://assets.website-files.com/5e87e737ee7085b9ba02c101/5e8a415aacdbb524713eb277_cursor.png")
+    ),
+    auto;
+  user-select: none;
+}
+
+button, .Link {
+  cursor: -webkit-image-set(
+      url("https://assets.website-files.com/5e87e737ee7085b9ba02c101/5e8a4a6206f67059bcd497ce_cursor-pointer.png")
+    ),
+    pointer;
+}
+
+
+
+
+.header {
+  width: calc(100% - 16px);
+}
+
+
+@media screen and (min-width: 768px) {
+  .header {
+    width: calc(100% - 33px);
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .header {
+    width: calc(100% - 33px);
+  }
+}
