@@ -13,7 +13,7 @@ const Layout = () => {
             with reactjs.
           </span>
           <span className="mt-[-10px] font-medium">
-            I hope i left an impression ㋡ ....
+            I hope i left a Good impression ㋡ ....
           </span>
         </footer>
       </div>
