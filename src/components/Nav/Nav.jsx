@@ -10,7 +10,7 @@ const Nav = () => {
           <li key={index} className="w-[100%]">
             <Link
               to={item.link}
-              className="border-b-[4px] border-r-[4px] border-l-[4px] border-black text-[1.3rem]  h-15 font-bold bg-grayMatter text-center hover:bg-black hover:text-white py-2 flex justify-between items-center px-6 " // Ensure Link is block-level for full width
+              className="border-b-[4px] border-r-[4px] border-l-[4px] border-black text-[1.3rem]  h-15 font-bold bg-grayMatter text-center hover:bg-black hover:text-white py-2 flex justify-between items-center px-6  Link" // Ensure Link is block-level for full width
             >
               <button className="w-[100%]  flex items-center justify-between md:px-6 lg:px-2">
                 <span className="">{item.nav}</span>
