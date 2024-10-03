@@ -46,7 +46,7 @@ const Contact = () => {
     >
       <div className="border-[3px] border-black  bg-white mt-12 pb-4">
         <h1 className="text-[25px] p-2 border-b-[4px] border-black text-center bg-grayMatter">
-          contact me``
+          contact me
         </h1>
 
         <div className="px-4 pt-6">
