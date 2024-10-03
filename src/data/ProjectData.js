@@ -2,6 +2,8 @@ import thunder from "../assets/images/thunder.jpg";
 import morgul from "../assets/images/morgul.png";
 import wordy from "../assets/images/Wordy.png";
 import sonic from "../assets/images/sonic.png";
+import anime from "../assets/images/anime.png";
+
 export const ProjectData = [
   {
     id: "1",
@@ -16,6 +18,17 @@ export const ProjectData = [
   },
   {
     id: "2",
+    name: "AnimeSpot",
+    pic: anime,
+    desc: "AnimeSpot is a responsive website built without relying on a JavaScript framework. It showcases anime characters, series, and movies, complete with ratings and detailed information, and also includes a section for anime-themed shopping products.",
+    stack: "HTML, CSS AND JAVASCRIPT",
+    link: "https://moonlit-entremet-7ef65e.netlify.app/",
+    AOS: "zoom-in",
+    top: "0px",
+    left: "0px",
+  },
+  {
+    id: "3",
     name: "Morgul",
     pic: morgul,
     desc: "Morgul is a responsive e-commerce UI that enables users to browse, search products, and add items to the cart.",
@@ -26,7 +39,7 @@ export const ProjectData = [
     right: "0px",
   },
   {
-    id: "3",
+    id: "4",
     name: "Wordy",
     pic: wordy,
     desc: "A simple dictionary app that lets you search for words, view meanings, hear pronunciations, and switch themes, all powered by an API.",
