@@ -33,7 +33,7 @@ export const ProjectData = [
     pic: morgul,
     desc: "Morgul is a responsive e-commerce UI that enables users to browse, search products, and add items to the cart.",
     stack: "React, Context API, React Router, Tailwind CSS, Material UI.",
-    link: "http://https://morgul-ayotide-s-projects.vercel.app/",
+    link: "https://morgul-ayotide-s-projects.vercel.app/",
     AOS: "zoom-in-up",
     top: "40%",
     right: "0px",
